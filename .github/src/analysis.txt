@@ -1,0 +1,16 @@
+
+1. Running Time:
+
+The running time for the function is growing at a linear speed
+So the time complexity is linear "O(n)"
+There is space allocated for the new array "altitude"
+And there are 2 for loops within the function that runs proportional to the size of n
+We have a time analysis of 3 + n which simplifies to O(n)
+
+
+2. Space Requirement
+
+We need to look at the total memory that has been allocated by the inputs of
+the algorithm. Our algorithm allocates space based on the sizes of n. We found above
+that the function has a linear running time. We allocated space when we made the
+new array, and created the 2 for loops. Which makes the total space O(n).
