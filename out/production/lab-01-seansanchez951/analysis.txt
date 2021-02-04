@@ -1,0 +1,13 @@
+
+1. Running Time:
+
+The running time
+
+
+
+
+2. Space Requirement
+
+n
+
+new array requires memory allocation
